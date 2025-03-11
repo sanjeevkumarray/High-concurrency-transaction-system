@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/akili/Desktop/kifiya/week9/Fraud-Detection-for-E-commerce-and-Bank-Transactions/notebooks/mlruns/437010212199955049/b889dbc1df594c37b18251f76ece8ac7/artifacts
+end_time: 1719415723141
+entry_point_name: ''
+experiment_id: '437010212199955049'
+lifecycle_stage: active
+run_id: b889dbc1df594c37b18251f76ece8ac7
+run_name: MLP
+run_uuid: b889dbc1df594c37b18251f76ece8ac7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719415587842
+status: 3
+tags: []
+user_id: akili

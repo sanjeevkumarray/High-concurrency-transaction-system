@@ -1,0 +1,13 @@
+docker==7.1.0
+Flask==3.0.3
+joblib==1.4.2
+jupyter_client==8.6.2
+jupyter_core==5.7.2
+matplotlib==3.9.0
+matplotlib-inline==0.1.7
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.0
+scipy==1.13.1
+seaborn==0.13.2
+

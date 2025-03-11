@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/akili/Desktop/kifiya/week8/Fraud-Detection-for-E-commerce-and-Bank-Transactions/notebooks/mlruns/0/5703bac20da34e9cb2ef6baa483c5071/artifacts
+end_time: 1718908884022
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5703bac20da34e9cb2ef6baa483c5071
+run_name: Decision Tree
+run_uuid: 5703bac20da34e9cb2ef6baa483c5071
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718908045938
+status: 3
+tags: []
+user_id: akili

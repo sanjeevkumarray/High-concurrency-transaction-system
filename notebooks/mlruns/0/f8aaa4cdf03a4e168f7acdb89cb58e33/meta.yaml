@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/akili/Desktop/kifiya/week8/Fraud-Detection-for-E-commerce-and-Bank-Transactions/notebooks/mlruns/0/f8aaa4cdf03a4e168f7acdb89cb58e33/artifacts
+end_time: 1718906143707
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f8aaa4cdf03a4e168f7acdb89cb58e33
+run_name: Random Forest
+run_uuid: f8aaa4cdf03a4e168f7acdb89cb58e33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718905940487
+status: 3
+tags: []
+user_id: akili
